@@ -1,0 +1,17 @@
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Data.deps.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Data.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Data.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Core.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Entities.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Core.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\bin\Debug\net6.0\Etic.Entities.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.csproj.AssemblyReference.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.AssemblyInfoInputs.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.AssemblyInfo.cs
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.csproj.CoreCompileInputs.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.csproj.CopyComplete
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\refint\Etic.Data.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\Etic.Data.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Data\obj\Debug\net6.0\ref\Etic.Data.dll

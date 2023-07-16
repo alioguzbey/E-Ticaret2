@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.LiteWeb\\Etic.LiteWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Business\\Etic.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Business\\Etic.Business.csproj",
+        "projectName": "Etic.Business",
+        "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Business\\Etic.Business.csproj",
+        "packagesPath": "C:\\Users\\raa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Data\\Etic.Data.csproj": {
+                "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Data\\Etic.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj",
+        "projectName": "Etic.Core",
+        "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj",
+        "packagesPath": "C:\\Users\\raa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Data\\Etic.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Data\\Etic.Data.csproj",
+        "projectName": "Etic.Data",
+        "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Data\\Etic.Data.csproj",
+        "packagesPath": "C:\\Users\\raa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj": {
+                "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj"
+              },
+              "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj": {
+                "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj",
+        "projectName": "Etic.Entities",
+        "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj",
+        "packagesPath": "C:\\Users\\raa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj": {
+                "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Core\\Etic.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.LiteWeb\\Etic.LiteWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.LiteWeb\\Etic.LiteWeb.csproj",
+        "projectName": "Etic.LiteWeb",
+        "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.LiteWeb\\Etic.LiteWeb.csproj",
+        "packagesPath": "C:\\Users\\raa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.LiteWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Business\\Etic.Business.csproj": {
+                "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Business\\Etic.Business.csproj"
+              },
+              "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj": {
+                "projectPath": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Entities\\Etic.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

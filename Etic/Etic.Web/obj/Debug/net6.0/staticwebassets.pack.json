@@ -1,0 +1,2185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Etic.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Etic.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\easyzoom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\easyzoom.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\slinky.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slinky.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img.rar",
+      "PackagePath": "staticwebassets\\assets\\img.rar"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\30.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\32.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\33.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\34.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\35.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\36.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\37.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\38.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\39.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\40.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\41.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\42.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\43.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\44.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\45.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\46.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\47.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\48.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\Untitled-4.psd",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\Untitled-4.psd"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\banner\\title-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\title-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\bg\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\blog\\blog-sidebar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-sidebar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\17.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\18.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\19.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\brand-logo\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand-logo\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\cart\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\cart\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\cart\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\cart\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\17.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\18.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\19.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\20.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\21.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\22.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\23.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\24.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\25.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\26.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\27.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\28.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\29.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\30.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\31.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\33.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\34.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\35.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\36.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\37.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\38.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\39.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\40.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\41.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\42.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\43.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\44.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\45.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\46.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\47.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\48.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\49.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\50.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\51.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\52.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\53.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\54.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\55.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\56.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\57.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\58.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\left.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\icon-img\\right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon-img\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\instra\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instra\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\instra\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instra\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\instra\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instra\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\instra\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instra\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\instra\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instra\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-10.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-11.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-6.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-7.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-8.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo-9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-9.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\bl1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\bl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\bl2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\bl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\bl3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\bl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\bl4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\bl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details-sticky1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details-sticky1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details-sticky2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details-sticky2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details-sticky3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details-sticky3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details-sticky4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details-sticky4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details8-s1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details8-s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details8-s2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details8-s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details8-s3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details8-s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details8-s4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details8-s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details9-s1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details9-s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details9-s2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details9-s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\details9-s3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\details9-s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l1-details-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l1-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l1-details-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l1-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l1-details-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l1-details-5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l5-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l5-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l6-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l6-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l7-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l7-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\l8-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\l8-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s1-details4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s1-details4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s2-details4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s2-details4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s3-details4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s3-details4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product-details\\s8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-details\\s8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\book\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\book\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\urun1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\urun1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\urun2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\urun2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\urun3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\urun3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\electro\\urun4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\electro\\urun4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-2\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-colorful\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-colorful\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-colorful\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-colorful\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-colorful\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-colorful\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-colorful\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-colorful\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\fashion-colorful\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\fashion-colorful\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\food\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\food\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furits\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furits\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\furniture\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\furniture\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\handicraft\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\handicraft\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sidebar-product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sidebar-product\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sidebar-product\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sidebar-product\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sidebar-product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\smart-watch\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\smart-watch\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\smart-watch\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\smart-watch\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\smart-watch\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\smart-watch\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\product\\sports\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sports\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\s1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\s2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\s3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\quick-view\\s4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\quick-view\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\15..jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\15..jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\20.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\slider\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\team\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\team\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\img\\team\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.7.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\assets\\mail.php",
+      "PackagePath": "staticwebassets\\assets\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\raa\\Downloads\\Etic\\Etic\\Etic\\Etic.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Etic.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Etic.Web.props",
+      "PackagePath": "build\\Etic.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Etic.Web.props",
+      "PackagePath": "buildMultiTargeting\\Etic.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Etic.Web.props",
+      "PackagePath": "buildTransitive\\Etic.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

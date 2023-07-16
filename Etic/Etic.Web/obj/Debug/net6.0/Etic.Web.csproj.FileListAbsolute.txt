@@ -1,0 +1,130 @@
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.staticwebassets.runtime.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.exe
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.deps.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.runtimeconfig.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.dll
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.pdb
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.AssemblyReference.cache
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.AssemblyInfoInputs.cache
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.AssemblyInfo.cs
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.CoreCompileInputs.cache
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.RazorAssemblyInfo.cache
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.RazorAssemblyInfo.cs
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.Etic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Etic.Web.props
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Etic.Web.props
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Etic.Web.props
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\bundle\Etic.Web.styles.css
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Etic.Web.bundle.scp.css
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.dll
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\refint\Etic.Web.dll
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.pdb
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.genruntimeconfig.cache
+C:\Users\Eylül Erdoğan\Desktop\Etic\Etic.Web\obj\Debug\net6.0\ref\Etic.Web.dll
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\appsettings.json
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.staticwebassets.runtime.json
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.exe
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.deps.json
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.runtimeconfig.json
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.dll
+E:\Eticaret1\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.pdb
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.AssemblyReference.cache
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.AssemblyInfoInputs.cache
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.AssemblyInfo.cs
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.CoreCompileInputs.cache
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.RazorAssemblyInfo.cache
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.RazorAssemblyInfo.cs
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\bundle\Etic.Web.styles.css
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Etic.Web.bundle.scp.css
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.dll
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\refint\Etic.Web.dll
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.pdb
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.genruntimeconfig.cache
+E:\Eticaret1\Etic\Etic\Etic.Web\obj\Debug\net6.0\ref\Etic.Web.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.staticwebassets.runtime.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.exe
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.deps.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.runtimeconfig.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Web.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Business.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Core.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Data.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Entities.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Business.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Data.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Core.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\bin\Debug\net6.0\Etic.Entities.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.AssemblyReference.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.AssemblyInfoInputs.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.AssemblyInfo.cs
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.CoreCompileInputs.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.RazorAssemblyInfo.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.RazorAssemblyInfo.cs
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.Etic.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Etic.Web.props
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Etic.Web.props
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Etic.Web.props
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\bundle\Etic.Web.styles.css
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\scopedcss\projectbundle\Etic.Web.bundle.scp.css
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.csproj.CopyComplete
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\refint\Etic.Web.dll
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.pdb
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\Etic.Web.genruntimeconfig.cache
+C:\Users\raa\Downloads\Etic\Etic\Etic\Etic.Web\obj\Debug\net6.0\ref\Etic.Web.dll

@@ -1,0 +1,1 @@
+﻿ <li class="single-product-cart"> <div class="cart-img"> <a href="[link]"><img src="[img]" style="width: 60px;" alt=""></a> </div><div class="cart-title"> <h5><a href="#">[name]</a></h5> <span>[total] x [quantity]</span> </div><div class="cart-delete"> <a href="#"><i class="ti-trash"></i></a> </div></li>
